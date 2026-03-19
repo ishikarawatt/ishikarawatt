@@ -43,14 +43,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishikarawatt&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
