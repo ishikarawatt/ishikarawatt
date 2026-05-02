@@ -223,22 +223,71 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⚡ &nbsp;Skills Meter
+## 💻 &nbsp;Interactive Portfolio Terminal
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
-```
- ⚙️  C / C++          [██████████████████████░░]  90%  ★ Strong
- 🐍  Python           [█████████████████████░░░]  85%  ★ Strong
- 🌲  Data Structures  [████████████████████░░░░]  80%  ★ Good
- 🔢  Algorithms       [██████████████████░░░░░░]  75%  ★ Good
- 🌐  JavaScript       [████████████████░░░░░░░░]  70%  ✦ Growing
- 🗄️  SQL / MongoDB    [███████████████░░░░░░░░░]  65%  ✦ Growing
- ⚛️  React            [████████████░░░░░░░░░░░░]  60%  ✦ Growing
- 🤖  AI / ML          [████████░░░░░░░░░░░░░░░░]  40%  🌱 Learning
-```
+<div align="center">
+
+> 🖥️ *Type a command or click a chip — explore my profile like a dev would.*
+> 
+> `whoami` &nbsp;·&nbsp; `skills` &nbsp;·&nbsp; `projects` &nbsp;·&nbsp; `goals` &nbsp;·&nbsp; `contact` &nbsp;·&nbsp; `help`
+
+<br/>
+
+<!--
+  TERMINAL WIDGET — host terminal.html on GitHub Pages:
+  1. Put terminal.html in your repo
+  2. Enable GitHub Pages (Settings → Pages → main branch)
+  3. Record a GIF using ScreenToGif / LICEcap
+  4. Replace the img tag below with: <img src="YOUR_GIF_URL" width="100%"/>
+-->
+
+<a href="https://ishikarawatt.github.io/terminal/">
+  <img src="https://img.shields.io/badge/💻%20Open%20Interactive%20Terminal-Try%20it%20Live-0d1117?style=for-the-badge&labelColor=0d1117&color=00b4d8&logoColor=00d4ff"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌌 &nbsp;Tech Universe
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<div align="center">
+
+> ✦ *Every skill I know — orbiting, always in motion.*
+
+<br/>
+
+<!--
+  HOW TO USE THIS SECTION:
+  1. Copy starfield.html (from this repo) to a new GitHub repo
+  2. Enable GitHub Pages on that repo (Settings → Pages → Deploy from main)
+  3. Record a GIF of the animation using ScreenToGif / LICEcap
+  4. Replace the placeholder below with:
+     <img src="your-gif-url" width="100%" alt="Tech Universe starfield"/>
+
+  OR link directly to the live page:
+-->
+
+<a href="https://github.com/ishikarawatt">
+  <img src="https://img.shields.io/badge/🌌%20Explore%20My%20Tech%20Universe-Live%20Interactive%20Starfield-060a12?style=for-the-badge&labelColor=060a12&color=00b4d8&logoColor=00d4ff"/>
+</a>
+
+<br/><br/>
+
+*All 16 skills — floating as tags across a starfield, reacting to your cursor.*
+*Host `starfield.html` on GitHub Pages and embed the GIF here for the full effect.*
+
+</div>
 
 <br/>
 
