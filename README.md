@@ -1,54 +1,75 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=220&section=header&text=Ishika%20Rawat&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Undergraduate%20%7C%20Aspiring%20Software%20Developer&descAlignY=62&descSize=18&descColor=e0e7ff"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Ishika+%F0%9F%91%8B;Computer+Science+Undergraduate;Aspiring+Software+Developer;DSA+%7C+Backend+%7C+AI+Explorer;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=ishikarawatt&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/ishikarawatt?label=Followers&style=for-the-badge&color=6366f1&logoColor=white" alt="followers" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00b4d8,50:0077b6,100:03045e&height=250&section=header&text=Ishika%20Rawat&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=✦%20CS%20Undergraduate%20%7C%20Code.%20Create.%20Conquer.%20✦&descAlignY=65&descSize=17&descColor=caf0f8"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00B4D8&center=true&vCenter=true&width=650&lines=%3E+Turning+coffee+into+code+%E2%98%95;%3E+DSA+%7C+Backend+%7C+AI+%F0%9F%A7%A0;%3E+Writing+bugs...+I+mean+features+%F0%9F%90%9B;%3E+git+commit+-m+'another+late+night'+%F0%9F%8C%99;%3E+Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ishikarawatt&label=👁️ Profile Views&color=00b4d8&style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/ishikarawatt?label=🤝 Followers&style=for-the-badge&color=0077b6" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collab-00b4d8?style=for-the-badge&logo=github" />
+</div>
+
+<br/>
+
 ---
 
-## 👩‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table border="0">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`whoami`
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<table align="center" border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-```python
-class IshikaRawat:
-    def __init__(self):
-        self.name      = "Ishika Rawat"
-        self.role      = "CS Undergraduate"
-        self.location  = "India 🇮🇳"
-        self.languages = ["C", "C++", "Python",
-                          "Java", "JavaScript"]
-        self.focus     = ["DSA", "Backend Dev",
-                          "AI Fundamentals"]
-        self.goal      = "Build scalable, elegant software"
-        self.open_to   = "Collaborations & Opportunities"
+```bash
+┌──(ishika㉿dev)-[~]
+└─$ cat about_me.txt
 
-    def say_hi(self):
-        print("Let's build something amazing! 🚀")
+  Name     : Ishika Rawat
+  Role     : CS Undergraduate
+  Location : India 🇮🇳
+  Focus    : DSA + Backend + AI
+  Status   : Always Learning 📖
+  Mood     : Motivated ⚡
 
-me = IshikaRawat()
-me.say_hi()
+┌──(ishika㉿dev)-[~]
+└─$ cat goals.txt
+
+  → Master Data Structures & Algorithms
+  → Build scalable backend systems
+  → Explore AI/ML applications
+  → Contribute to Open Source
+  → Write code that matters 🚀
+
+┌──(ishika㉿dev)-[~]
+└─$ █
 ```
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="48%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="290" alt="coding gif"/>
+
+<br/><br/>
+
+![](https://img.shields.io/badge/💡-Problem%20Solver-00b4d8?style=flat-square)
+![](https://img.shields.io/badge/🔥-Fast%20Learner-0077b6?style=flat-square)
+![](https://img.shields.io/badge/✨-Clean%20Code-03045e?style=flat-square)
 
 </td>
 </tr>
@@ -56,146 +77,209 @@ me.say_hi()
 
 <br/>
 
-- 🔭 Currently strengthening **Data Structures, Algorithms & Backend Development**
-- 🧠 Continuously deepening my understanding of **core CS concepts**
-- 📚 Exploring **Artificial Intelligence** fundamentals & practical applications
-- 🤝 Interested in collaborating on **well-architected, scalable projects**
-- ⚡ Focused on writing **clean, maintainable, optimized code**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Arsenal
 
-## 🚀 Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<table>
+<tr>
+  <td align="center" width="130">
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65"/>
+    <br/><sub><b>C / C++</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/>
+    <br/><sub><b>Python</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/>
+    <br/><sub><b>Java</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/>
+    <br/><sub><b>JavaScript</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/>
+    <br/><sub><b>React</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/>
+    <br/><sub><b>MySQL</b></sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=html" width="55" height="55"/>
+    <br/><sub><b>HTML5</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=css" width="55" height="55"/>
+    <br/><sub><b>CSS3</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/>
+    <br/><sub><b>MongoDB</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=git" width="55" height="55"/>
+    <br/><sub><b>Git</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=github" width="55" height="55"/>
+    <br/><sub><b>GitHub</b></sub>
+  </td>
+  <td align="center" width="130">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/>
+    <br/><sub><b>VS Code</b></sub>
+  </td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 &nbsp;GitHub Analytics
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishikarawatt&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishikarawatt&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ishikarawatt&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&border_color=00b4d8" width="47%"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishikarawatt&theme=react&hide_border=true&background=0d1117&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=8b949e&stroke=00b4d8" width="47%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikarawatt&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="50%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikarawatt&layout=donut&theme=react&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8" width="40%"/>
 
 </div>
 
----
-
-## 📈 Contribution Activity
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishikarawatt&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishikarawatt&bg_color=0d1117&color=00b4d8&line=0077b6&point=caf0f8&area=true&area_color=00b4d820&hide_border=true" width="95%"/>
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 &nbsp;GitHub Trophies
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishikarawatt&theme=tokyonight&no-frame=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ishikarawatt&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 </div>
 
----
+<br/>
 
-## 🎯 Skills Overview
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```text
-C / C++            ████████████████████░   90%
-Python             ███████████████████░░   85%
-Data Structures    ██████████████████░░░   80%
-Algorithms         ████████████████░░░░░   75%
-JavaScript         ███████████████░░░░░░   70%
-SQL / MongoDB      █████████████░░░░░░░░   65%
-React              ████████████░░░░░░░░░   60%
-AI / ML            ████████░░░░░░░░░░░░░   40%  🌱 Learning
+## ⚡ &nbsp;Skills Meter
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+```
+ ⚙️  C / C++          [██████████████████████░░]  90%  ★ Strong
+ 🐍  Python           [█████████████████████░░░]  85%  ★ Strong
+ 🌲  Data Structures  [████████████████████░░░░]  80%  ★ Good
+ 🔢  Algorithms       [██████████████████░░░░░░]  75%  ★ Good
+ 🌐  JavaScript       [████████████████░░░░░░░░]  70%  ✦ Growing
+ 🗄️  SQL / MongoDB    [███████████████░░░░░░░░░]  65%  ✦ Growing
+ ⚛️  React            [████████████░░░░░░░░░░░░]  60%  ✦ Growing
+ 🤖  AI / ML          [████████░░░░░░░░░░░░░░░░]  40%  🌱 Learning
 ```
 
----
+<br/>
 
-## 🌱 Learning Roadmap
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🗺️ &nbsp;Learning Roadmap
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
 
-| 🎯 Area | 📚 Topics | 🔄 Status |
-|:---|:---|:---:|
-| Data Structures & Algorithms | Trees, Graphs, Dynamic Programming | 🔥 Active |
-| Backend Development | REST APIs, Node.js, Express | 📖 Exploring |
-| Artificial Intelligence | ML Basics, Neural Networks | 🌱 Beginner |
-| System Design | Scalability, Architecture Patterns | 📋 Planned |
+```
+  2024 ──────────────────────────────────────────────── 2025+
+
+  [🔥 NOW]          [📖 NEXT]           [🎯 FUTURE]
+  ──────────        ──────────          ──────────
+  ✅ DSA Core       🔄 REST APIs        📋 System Design
+  ✅ C++ Deep Dive  🔄 Node.js          📋 Cloud (AWS/GCP)
+  ✅ Python OOP     🔄 ML Basics        📋 Open Source
+  ✅ React Basics   🔄 Neural Nets      📋 Full Stack App
+```
 
 </div>
 
----
+<br/>
 
-## 💭 Dev Quote
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💬 &nbsp;Dev Quote
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 </div>
 
----
+<br/>
 
-## 🌐 Connect With Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 &nbsp;Find Me Here
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
 
 <div align="center">
 
 <a href="https://linkedin.com/in/ishika-rawat-81691b341">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/ishika.rawatt">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:ishikarwt123@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/>
-&nbsp; <em>Always open to a good conversation, collaboration, or opportunity — feel free to reach out!</em>
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<br/>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"/>
 
 </div>
 
----
+<br/>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a855f7,100:6366f1&height=130&section=footer&animation=fadeIn"/>
-
-<div align="center">
-  <sub>⭐ If you find my work helpful, consider starring my repos! Made with 💜 by Ishika Rawat</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=140&section=footer&animation=fadeIn&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=caf0f8&fontAlignY=65"/>
