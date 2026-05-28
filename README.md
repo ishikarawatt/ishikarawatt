@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- HEADER BANNER - fixed font size so name is fully visible -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,40:0077b6,100:00b4d8&height=230&section=header&text=Ishika%20Rawat&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=✦%20CS%20Undergraduate%20%7C%20Code.%20Create.%20Conquer.%20✦&descAlignY=64&descSize=16&descColor=caf0f8"/>
 
-<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00B4D8&center=true&vCenter=true&width=650&lines=%3E+Hello+World!+I'm+Ishika+%F0%9F%91%8B;%3E+Turning+logic+into+elegant+code+%E2%9C%A8;%3E+DSA+%7C+Backend+%7C+AI+Explorer+%F0%9F%A7%A0;%3E+git+commit+-m+'another+late+night'+%F0%9F%8C%99;%3E+Building+the+future%2C+one+line+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- BADGES - only using reliable shields.io, no broken image URLs -->
 <img src="https://komarev.com/ghpvc/?username=ishikarawatt&label=Profile+Views&color=00b4d8&style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/ishikarawatt?label=Followers&style=for-the-badge&color=0077b6&logoColor=white" />
@@ -130,7 +127,7 @@
   </td>
   <td align="center" width="110">
     <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50"/>
-    <br/><sub><b>FastAPI</b></sub>
+    <br/><sub><b>Fastapi</b></sub>
   </td>
   <td align="center" width="110">
     <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50"/>
@@ -216,7 +213,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishikarawatt&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ishikarawatt&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -231,29 +228,13 @@
 
 <div align="center">
 
-> ✦ *Every skill I know — orbiting, always in motion.*
+> ✦ *All my skills orbiting in space — move your mouse to interact.*
 
 <br/>
 
-<!--
-  HOW TO USE THIS SECTION:
-  1. Copy starfield.html (from this repo) to a new GitHub repo
-  2. Enable GitHub Pages on that repo (Settings → Pages → Deploy from main)
-  3. Record a GIF of the animation using ScreenToGif / LICEcap
-  4. Replace the placeholder below with:
-     <img src="your-gif-url" width="100%" alt="Tech Universe starfield"/>
-
-  OR link directly to the live page:
--->
-
-<a href="https://github.com/ishikarawatt">
-  <img src="https://img.shields.io/badge/🌌%20Explore%20My%20Tech%20Universe-Live%20Interactive%20Starfield-060a12?style=for-the-badge&labelColor=060a12&color=00b4d8&logoColor=00d4ff"/>
+<a href="https://ishikarawatt.github.io/portfolio-widgets/starfield.html" target="_blank">
+  <img src="https://img.shields.io/badge/🌌%20%20Launch%20Tech%20Universe-060a12?style=for-the-badge&labelColor=060a12&color=0077b6"/>
 </a>
-
-<br/><br/>
-
-*All 16 skills — floating as tags across a starfield, reacting to your cursor.*
-*Host `starfield.html` on GitHub Pages and embed the GIF here for the full effect.*
 
 </div>
 
@@ -293,5 +274,4 @@
 
 <br/>
 
-<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,60:0077b6,100:03045e&height=140&section=footer&animation=fadeIn&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=22&fontColor=caf0f8&fontAlignY=65"/>
