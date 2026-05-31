@@ -1,0 +1,242 @@
+<svg width="100%" viewBox="0 0 680 400" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Ishika's tech universe</title>
+<desc>Beautiful animated skill orbit rings around central name</desc>
+<defs>
+<linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#03045e"/><stop offset="100%" stop-color="#060a12"/></linearGradient>
+<linearGradient id="gc" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d4ff" stop-opacity=".18"/><stop offset="100%" stop-color="#0077b6" stop-opacity=".04"/></linearGradient>
+<radialGradient id="gr" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#00b4d8" stop-opacity=".22"/><stop offset="60%" stop-color="#0077b6" stop-opacity=".06"/><stop offset="100%" stop-color="#030405" stop-opacity="0"/></radialGradient>
+<style>
+.bg{fill:url(#g1)}
+.star{fill:#caf0f8}
+.tw1{animation:tw 2.2s ease-in-out infinite}
+.tw2{animation:tw 3.5s ease-in-out .8s infinite}
+.tw3{animation:tw 1.9s ease-in-out .4s infinite}
+.tw4{animation:tw 2.8s ease-in-out 1.2s infinite}
+.tw5{animation:tw 4.0s ease-in-out .6s infinite}
+.tw6{animation:tw 2.5s ease-in-out 1.8s infinite}
+.r1{fill:none;stroke:#00b4d8;stroke-width:.5;opacity:.25}
+.r2{fill:none;stroke:#0096c7;stroke-width:.4;opacity:.15}
+.r3{fill:none;stroke:#0077b6;stroke-width:.35;opacity:.1}
+.cname{font:800 24px 'Courier New',monospace;fill:#ffffff;text-anchor:middle;letter-spacing:3px}
+.cdot{fill:#00d4ff;opacity:.9}
+.csub{font:500 9px 'Courier New',monospace;fill:#90e0ef;text-anchor:middle;letter-spacing:6px;opacity:.7}
+.tbg{fill:rgba(2,4,12,.95)}
+.tbd{fill:none;stroke-width:.8}
+.tt{font:700 10.5px 'Courier New',monospace;text-anchor:middle;dominant-baseline:middle}
+.i1{animation:i1 12s linear infinite}
+.i2{animation:i2 12s linear infinite}
+.i3{animation:i3 12s linear infinite}
+.m1{animation:m1 20s linear infinite}
+.m2{animation:m2 20s linear infinite}
+.m3{animation:m3 20s linear infinite}
+.m4{animation:m4 20s linear infinite}
+.m5{animation:m5 20s linear infinite}
+.o1{animation:o1 30s linear infinite}
+.o2{animation:o2 30s linear infinite}
+.o3{animation:o3 30s linear infinite}
+.o4{animation:o4 30s linear infinite}
+.o5{animation:o5 30s linear infinite}
+.o6{animation:o6 30s linear infinite}
+.o7{animation:o7 30s linear infinite}
+.o8{animation:o8 30s linear infinite}
+@keyframes tw{0%,100%{opacity:.9}50%{opacity:.05}}
+@keyframes i1{0%{transform:translate(340px,200px) rotate(0deg)   translate(88px,0) rotate(0deg)}   100%{transform:translate(340px,200px) rotate(360deg)  translate(88px,0) rotate(-360deg)}}
+@keyframes i2{0%{transform:translate(340px,200px) rotate(120deg) translate(88px,0) rotate(-120deg)} 100%{transform:translate(340px,200px) rotate(480deg)  translate(88px,0) rotate(-480deg)}}
+@keyframes i3{0%{transform:translate(340px,200px) rotate(240deg) translate(88px,0) rotate(-240deg)} 100%{transform:translate(340px,200px) rotate(600deg)  translate(88px,0) rotate(-600deg)}}
+@keyframes m1{0%{transform:translate(340px,200px) rotate(0deg)   translate(150px,0) rotate(0deg)}   100%{transform:translate(340px,200px) rotate(360deg)  translate(150px,0) rotate(-360deg)}}
+@keyframes m2{0%{transform:translate(340px,200px) rotate(72deg)  translate(150px,0) rotate(-72deg)}  100%{transform:translate(340px,200px) rotate(432deg)  translate(150px,0) rotate(-432deg)}}
+@keyframes m3{0%{transform:translate(340px,200px) rotate(144deg) translate(150px,0) rotate(-144deg)} 100%{transform:translate(340px,200px) rotate(504deg)  translate(150px,0) rotate(-504deg)}}
+@keyframes m4{0%{transform:translate(340px,200px) rotate(216deg) translate(150px,0) rotate(-216deg)} 100%{transform:translate(340px,200px) rotate(576deg)  translate(150px,0) rotate(-576deg)}}
+@keyframes m5{0%{transform:translate(340px,200px) rotate(288deg) translate(150px,0) rotate(-288deg)} 100%{transform:translate(340px,200px) rotate(648deg)  translate(150px,0) rotate(-648deg)}}
+@keyframes o1{0%{transform:translate(340px,200px) rotate(0deg)   translate(172px,0) rotate(0deg)}   100%{transform:translate(340px,200px) rotate(360deg)  translate(172px,0) rotate(-360deg)}}
+@keyframes o2{0%{transform:translate(340px,200px) rotate(45deg)  translate(172px,0) rotate(-45deg)}  100%{transform:translate(340px,200px) rotate(405deg)  translate(172px,0) rotate(-405deg)}}
+@keyframes o3{0%{transform:translate(340px,200px) rotate(90deg)  translate(172px,0) rotate(-90deg)}  100%{transform:translate(340px,200px) rotate(450deg)  translate(172px,0) rotate(-450deg)}}
+@keyframes o4{0%{transform:translate(340px,200px) rotate(135deg) translate(172px,0) rotate(-135deg)} 100%{transform:translate(340px,200px) rotate(495deg)  translate(172px,0) rotate(-495deg)}}
+@keyframes o5{0%{transform:translate(340px,200px) rotate(180deg) translate(172px,0) rotate(-180deg)} 100%{transform:translate(340px,200px) rotate(540deg)  translate(172px,0) rotate(-540deg)}}
+@keyframes o6{0%{transform:translate(340px,200px) rotate(225deg) translate(172px,0) rotate(-225deg)} 100%{transform:translate(340px,200px) rotate(585deg)  translate(172px,0) rotate(-585deg)}}
+@keyframes o7{0%{transform:translate(340px,200px) rotate(270deg) translate(172px,0) rotate(-270deg)} 100%{transform:translate(340px,200px) rotate(630deg)  translate(172px,0) rotate(-630deg)}}
+@keyframes o8{0%{transform:translate(340px,200px) rotate(315deg) translate(172px,0) rotate(-315deg)} 100%{transform:translate(340px,200px) rotate(675deg)  translate(172px,0) rotate(-675deg)}}
+</style>
+</defs>
+<rect width="680" height="400" rx="16" class="bg"/>
+<circle cx="340" cy="200" r="190" fill="url(#gr)"/>
+<circle cx="32"  cy="20"  r="1.4" class="star tw1"/><circle cx="98"  cy="11"  r=".7" class="star tw3"/>
+<circle cx="178" cy="26"  r="1.0" class="star tw2"/><circle cx="298" cy="9"   r=".6" class="star tw5"/>
+<circle cx="408" cy="16"  r="1.2" class="star tw4"/><circle cx="508" cy="8"   r=".8" class="star tw6"/>
+<circle cx="592" cy="22"  r="1.0" class="star tw1"/><circle cx="656" cy="14"  r=".6" class="star tw3"/>
+<circle cx="668" cy="72"  r="1.1" class="star tw2"/><circle cx="673" cy="155" r=".7" class="star tw5"/>
+<circle cx="668" cy="238" r="1.3" class="star tw4"/><circle cx="655" cy="312" r=".8" class="star tw1"/>
+<circle cx="628" cy="368" r=".9"  class="star tw6"/><circle cx="545" cy="386" r=".6" class="star tw3"/>
+<circle cx="440" cy="391" r="1.1" class="star tw2"/><circle cx="328" cy="389" r=".7" class="star tw5"/>
+<circle cx="218" cy="387" r="1.2" class="star tw1"/><circle cx="118" cy="376" r=".8" class="star tw4"/>
+<circle cx="45"  cy="352" r="1.0" class="star tw6"/><circle cx="10"  cy="278" r=".6" class="star tw2"/>
+<circle cx="7"   cy="195" r="1.1" class="star tw3"/><circle cx="14"  cy="112" r=".7" class="star tw5"/>
+<circle cx="46"  cy="50"  r=".9"  class="star tw1"/><circle cx="628" cy="50"  r=".7" class="star tw4"/>
+<circle cx="152" cy="36"  r=".5"  class="star tw6"/><circle cx="500" cy="378" r=".5" class="star tw2"/>
+<circle cx="70"  cy="200" r=".4"  class="star tw3"/><circle cx="612" cy="200" r=".4" class="star tw1"/>
+<circle cx="240" cy="18"  r=".6"  class="star tw5"/><circle cx="560" cy="375" r=".6" class="star tw4"/>
+<circle cx="88"  cy="155" r=".5"  class="star tw2"/><circle cx="595" cy="140" r=".5" class="star tw6"/>
+<circle cx="78"  cy="258" r=".6"  class="star tw3"/><circle cx="602" cy="262" r=".6" class="star tw1"/>
+<circle cx="168" cy="360" r=".5"  class="star tw4"/><circle cx="472" cy="14"  r=".5" class="star tw5"/>
+<circle cx="340" cy="7"   r=".8"  class="star tw2"/><circle cx="340" cy="392" r=".8" class="star tw6"/>
+<circle cx="172" cy="10"  r=".6"  class="star tw1"/><circle cx="536" cy="388" r=".6" class="star tw3"/>
+<circle cx="420" cy="388" r=".4"  class="star tw4"/><circle cx="256" cy="385" r=".4" class="star tw5"/>
+<circle cx="660" cy="195" r=".5"  class="star tw2"/><circle cx="22"  cy="195" r=".5" class="star tw6"/>
+<circle cx="340" cy="395" r=".5"  class="star tw1"/><circle cx="340" cy="5"   r=".5" class="star tw3"/>
+<circle cx="130" cy="80"  r=".4"  class="star tw4"/><circle cx="550" cy="80"  r=".4" class="star tw5"/>
+<circle cx="120" cy="318" r=".5"  class="star tw2"/><circle cx="558" cy="318" r=".5" class="star tw6"/>
+<circle cx="200" cy="55"  r=".3"  class="star tw1"/><circle cx="480" cy="345" r=".3" class="star tw3"/>
+<circle cx="60"  cy="130" r=".4"  class="star tw4"/><circle cx="622" cy="270" r=".4" class="star tw5"/>
+<circle cx="60"  cy="270" r=".3"  class="star tw2"/><circle cx="622" cy="130" r=".3" class="star tw6"/>
+<circle cx="340" cy="395" r=".6"  class="star tw1"/>
+<circle cx="252" cy="30"  r=".4"  class="star tw3"/><circle cx="428" cy="370" r=".4" class="star tw4"/>
+<circle cx="30"  cy="160" r=".3"  class="star tw5"/><circle cx="650" cy="240" r=".3" class="star tw2"/>
+<circle cx="30"  cy="240" r=".4"  class="star tw6"/><circle cx="650" cy="160" r=".4" class="star tw1"/>
+<circle cx="180" cy="378" r=".3"  class="star tw3"/><circle cx="500" cy="22"  r=".3" class="star tw4"/>
+<circle cx="260" cy="392" r=".5"  class="star tw5"/><circle cx="420" cy="8"   r=".5" class="star tw2"/>
+<circle cx="108" cy="340" r=".4"  class="star tw6"/><circle cx="572" cy="60"  r=".4" class="star tw1"/>
+<circle cx="108" cy="60"  r=".3"  class="star tw3"/><circle cx="572" cy="340" r=".3" class="star tw4"/>
+<circle cx="35"  cy="300" r=".5"  class="star tw5"/><circle cx="645" cy="100" r=".5" class="star tw2"/>
+<circle cx="35"  cy="100" r=".4"  class="star tw6"/><circle cx="645" cy="300" r=".4" class="star tw1"/>
+<circle cx="200" cy="382" r=".3"  class="star tw3"/><circle cx="480" cy="18"  r=".3" class="star tw4"/>
+<circle cx="360" cy="393" r=".4"  class="star tw5"/><circle cx="320" cy="7"   r=".4" class="star tw2"/>
+<circle cx="144" cy="350" r=".3"  class="star tw6"/><circle cx="536" cy="50"  r=".3" class="star tw1"/>
+<circle cx="144" cy="50"  r=".4"  class="star tw3"/><circle cx="536" cy="350" r=".4" class="star tw4"/>
+<circle cx="22"  cy="215" r=".3"  class="star tw5"/><circle cx="658" cy="185" r=".3" class="star tw2"/>
+<circle cx="22"  cy="185" r=".4"  class="star tw6"/><circle cx="658" cy="215" r=".4" class="star tw1"/>
+<circle cx="385" cy="3"   r=".3"  class="star tw3"/><circle cx="295" cy="397" r=".3" class="star tw4"/>
+<circle cx="458" cy="380" r=".4"  class="star tw5"/><circle cx="222" cy="20"  r=".4" class="star tw2"/>
+<circle cx="666" cy="110" r=".3"  class="star tw6"/><circle cx="14"  cy="290" r=".3" class="star tw1"/>
+<circle cx="14"  cy="110" r=".4"  class="star tw3"/><circle cx="666" cy="290" r=".4" class="star tw4"/>
+<circle cx="340" cy="395" r=".3"  class="star tw5"/><circle cx="340" cy="5"   r=".3" class="star tw2"/>
+<circle cx="672" cy="200" r=".5"  class="star tw6"/><circle cx="8"   cy="200" r=".5" class="star tw1"/>
+<circle cx="340" cy="398" r=".4"  class="star tw3"/><circle cx="340" cy="2"   r=".4" class="star tw4"/>
+<circle cx="670" cy="175" r=".3"  class="star tw5"/><circle cx="10"  cy="225" r=".3" class="star tw2"/>
+<circle cx="670" cy="225" r=".4"  class="star tw6"/><circle cx="10"  cy="175" r=".4" class="star tw1"/>
+<circle cx="92"  cy="32"  r=".3"  class="star tw3"/><circle cx="588" cy="368" r=".3" class="star tw4"/>
+<circle cx="92"  cy="368" r=".4"  class="star tw5"/><circle cx="588" cy="32"  r=".4" class="star tw2"/>
+<circle cx="48"  cy="82"  r=".3"  class="star tw6"/><circle cx="632" cy="318" r=".3" class="star tw1"/>
+<circle cx="48"  cy="318" r=".4"  class="star tw3"/><circle cx="632" cy="82"  r=".4" class="star tw4"/>
+<circle cx="20"  cy="148" r=".3"  class="star tw5"/><circle cx="660" cy="252" r=".3" class="star tw2"/>
+<circle cx="20"  cy="252" r=".4"  class="star tw6"/><circle cx="660" cy="148" r=".4" class="star tw1"/>
+<circle cx="52"  cy="355" r=".3"  class="star tw3"/><circle cx="628" cy="45"  r=".3" class="star tw4"/>
+<circle cx="158" cy="390" r=".4"  class="star tw5"/><circle cx="522" cy="10"  r=".4" class="star tw2"/>
+<circle cx="378" cy="396" r=".3"  class="star tw6"/><circle cx="302" cy="4"   r=".3" class="star tw1"/>
+<circle cx="438" cy="392" r=".4"  class="star tw3"/><circle cx="242" cy="8"   r=".4" class="star tw4"/>
+<circle cx="492" cy="375" r=".3"  class="star tw5"/><circle cx="188" cy="25"  r=".3" class="star tw2"/>
+<circle cx="340" cy="396" r=".5"  class="star tw6"/>
+<circle cx="354" cy="396" r=".3"  class="star tw1"/><circle cx="326" cy="4"   r=".3" class="star tw3"/>
+<circle cx="368" cy="394" r=".4"  class="star tw4"/><circle cx="312" cy="6"   r=".4" class="star tw5"/>
+<circle cx="398" cy="390" r=".3"  class="star tw2"/><circle cx="282" cy="10"  r=".3" class="star tw6"/>
+<circle cx="344" cy="398" r=".2"  class="star tw1"/><circle cx="336" cy="2"   r=".2" class="star tw3"/>
+<circle cx="66"  cy="348" r=".3"  class="star tw4"/><circle cx="614" cy="52"  r=".3" class="star tw5"/>
+<circle cx="66"  cy="52"  r=".2"  class="star tw2"/><circle cx="614" cy="348" r=".2" class="star tw6"/>
+<circle cx="26"  cy="128" r=".3"  class="star tw1"/><circle cx="654" cy="272" r=".3" class="star tw3"/>
+<circle cx="26"  cy="272" r=".2"  class="star tw4"/><circle cx="654" cy="128" r=".2" class="star tw5"/>
+<circle cx="16"  cy="168" r=".3"  class="star tw2"/><circle cx="664" cy="232" r=".3" class="star tw6"/>
+<circle cx="16"  cy="232" r=".2"  class="star tw1"/><circle cx="664" cy="168" r=".2" class="star tw3"/>
+<circle cx="340" cy="399" r=".3"  class="star tw4"/><circle cx="340" cy="1"   r=".3" class="star tw5"/>
+<circle cx="674" cy="200" r=".3"  class="star tw2"/><circle cx="6"   cy="200" r=".3" class="star tw6"/>
+<circle cx="672" cy="188" r=".2"  class="star tw1"/><circle cx="8"   cy="212" r=".2" class="star tw3"/>
+<circle cx="672" cy="212" r=".2"  class="star tw4"/><circle cx="8"   cy="188" r=".2" class="star tw5"/>
+<circle cx="340" cy="397" r=".2"  class="star tw2"/><circle cx="340" cy="3"   r=".2" class="star tw6"/>
+<circle cx="350" cy="398" r=".2"  class="star tw1"/><circle cx="330" cy="2"   r=".2" class="star tw3"/>
+<circle cx="360" cy="396" r=".2"  class="star tw4"/><circle cx="320" cy="4"   r=".2" class="star tw5"/>
+<circle cx="370" cy="393" r=".2"  class="star tw2"/><circle cx="310" cy="7"   r=".2" class="star tw6"/>
+<circle cx="380" cy="392" r=".2"  class="star tw1"/><circle cx="300" cy="8"   r=".2" class="star tw3"/>
+<circle cx="390" cy="391" r=".2"  class="star tw4"/><circle cx="290" cy="9"   r=".2" class="star tw5"/>
+<circle cx="400" cy="390" r=".2"  class="star tw2"/><circle cx="280" cy="10"  r=".2" class="star tw6"/>
+<circle cx="410" cy="389" r=".2"  class="star tw1"/><circle cx="270" cy="11"  r=".2" class="star tw3"/>
+<circle cx="420" cy="388" r=".2"  class="star tw4"/><circle cx="260" cy="12"  r=".2" class="star tw5"/>
+<circle cx="430" cy="387" r=".2"  class="star tw2"/><circle cx="250" cy="13"  r=".2" class="star tw6"/>
+<circle cx="440" cy="386" r=".2"  class="star tw1"/><circle cx="240" cy="14"  r=".2" class="star tw3"/>
+<circle cx="450" cy="385" r=".2"  class="star tw4"/><circle cx="230" cy="15"  r=".2" class="star tw5"/>
+<circle cx="460" cy="384" r=".2"  class="star tw2"/><circle cx="220" cy="16"  r=".2" class="star tw6"/>
+<circle cx="470" cy="383" r=".2"  class="star tw1"/><circle cx="210" cy="17"  r=".2" class="star tw3"/>
+<circle cx="480" cy="382" r=".2"  class="star tw4"/><circle cx="200" cy="18"  r=".2" class="star tw5"/>
+<circle cx="490" cy="381" r=".2"  class="star tw2"/><circle cx="190" cy="19"  r=".2" class="star tw6"/>
+<circle cx="500" cy="380" r=".2"  class="star tw1"/><circle cx="180" cy="20"  r=".2" class="star tw3"/>
+<circle cx="510" cy="379" r=".2"  class="star tw4"/><circle cx="170" cy="21"  r=".2" class="star tw5"/>
+<circle cx="520" cy="378" r=".2"  class="star tw2"/><circle cx="160" cy="22"  r=".2" class="star tw6"/>
+<circle cx="530" cy="374" r=".2"  class="star tw1"/><circle cx="150" cy="26"  r=".2" class="star tw3"/>
+<circle cx="540" cy="371" r=".2"  class="star tw4"/><circle cx="140" cy="29"  r=".2" class="star tw5"/>
+<circle cx="550" cy="368" r=".2"  class="star tw2"/><circle cx="130" cy="32"  r=".2" class="star tw6"/>
+<circle cx="560" cy="364" r=".2"  class="star tw1"/><circle cx="120" cy="36"  r=".2" class="star tw3"/>
+<circle cx="570" cy="359" r=".2"  class="star tw4"/><circle cx="110" cy="41"  r=".2" class="star tw5"/>
+<circle cx="580" cy="354" r=".2"  class="star tw2"/><circle cx="100" cy="46"  r=".2" class="star tw6"/>
+<circle cx="590" cy="346" r=".2"  class="star tw1"/><circle cx="90"  cy="54"  r=".2" class="star tw3"/>
+<circle cx="600" cy="338" r=".2"  class="star tw4"/><circle cx="80"  cy="62"  r=".2" class="star tw5"/>
+<circle cx="608" cy="328" r=".2"  class="star tw2"/><circle cx="72"  cy="72"  r=".2" class="star tw6"/>
+<circle cx="616" cy="316" r=".2"  class="star tw1"/><circle cx="64"  cy="84"  r=".2" class="star tw3"/>
+<circle cx="622" cy="304" r=".2"  class="star tw4"/><circle cx="58"  cy="96"  r=".2" class="star tw5"/>
+<circle cx="626" cy="292" r=".2"  class="star tw2"/><circle cx="54"  cy="108" r=".2" class="star tw6"/>
+<circle cx="630" cy="280" r=".2"  class="star tw1"/><circle cx="50"  cy="120" r=".2" class="star tw3"/>
+<circle cx="632" cy="268" r=".2"  class="star tw4"/><circle cx="48"  cy="132" r=".2" class="star tw5"/>
+<circle cx="634" cy="256" r=".2"  class="star tw2"/><circle cx="46"  cy="144" r=".2" class="star tw6"/>
+<circle cx="635" cy="244" r=".2"  class="star tw1"/><circle cx="45"  cy="156" r=".2" class="star tw3"/>
+<circle cx="636" cy="232" r=".2"  class="star tw4"/><circle cx="44"  cy="168" r=".2" class="star tw5"/>
+<circle cx="636" cy="220" r=".2"  class="star tw2"/><circle cx="44"  cy="180" r=".2" class="star tw6"/>
+<circle cx="636" cy="208" r=".2"  class="star tw1"/><circle cx="44"  cy="192" r=".2" class="star tw3"/>
+<circle cx="636" cy="196" r=".2"  class="star tw4"/><circle cx="44"  cy="204" r=".2" class="star tw5"/>
+<circle cx="636" cy="184" r=".2"  class="star tw2"/><circle cx="44"  cy="216" r=".2" class="star tw6"/>
+<circle cx="635" cy="172" r=".2"  class="star tw1"/><circle cx="45"  cy="228" r=".2" class="star tw3"/>
+<circle cx="634" cy="160" r=".2"  class="star tw4"/><circle cx="46"  cy="240" r=".2" class="star tw5"/>
+<circle cx="632" cy="148" r=".2"  class="star tw2"/><circle cx="48"  cy="252" r=".2" class="star tw6"/>
+<circle cx="630" cy="136" r=".2"  class="star tw1"/><circle cx="50"  cy="264" r=".2" class="star tw3"/>
+<circle cx="626" cy="124" r=".2"  class="star tw4"/><circle cx="54"  cy="276" r=".2" class="star tw5"/>
+<circle cx="622" cy="112" r=".2"  class="star tw2"/><circle cx="58"  cy="288" r=".2" class="star tw6"/>
+<circle cx="616" cy="100" r=".2"  class="star tw1"/><circle cx="64"  cy="300" r=".2" class="star tw3"/>
+<circle cx="608" cy="90"  r=".2"  class="star tw4"/><circle cx="72"  cy="310" r=".2" class="star tw5"/>
+<circle cx="600" cy="80"  r=".2"  class="star tw2"/><circle cx="80"  cy="320" r=".2" class="star tw6"/>
+<circle cx="590" cy="70"  r=".2"  class="star tw1"/><circle cx="90"  cy="330" r=".2" class="star tw3"/>
+<circle cx="580" cy="62"  r=".2"  class="star tw4"/><circle cx="100" cy="338" r=".2" class="star tw5"/>
+<circle cx="570" cy="55"  r=".2"  class="star tw2"/><circle cx="110" cy="345" r=".2" class="star tw6"/>
+<circle cx="560" cy="48"  r=".2"  class="star tw1"/><circle cx="120" cy="352" r=".2" class="star tw3"/>
+<circle cx="550" cy="43"  r=".2"  class="star tw4"/><circle cx="130" cy="357" r=".2" class="star tw5"/>
+<circle cx="540" cy="38"  r=".2"  class="star tw2"/><circle cx="140" cy="362" r=".2" class="star tw6"/>
+<circle cx="530" cy="34"  r=".2"  class="star tw1"/><circle cx="150" cy="366" r=".2" class="star tw3"/>
+<circle cx="520" cy="31"  r=".2"  class="star tw4"/><circle cx="160" cy="369" r=".2" class="star tw5"/>
+<circle cx="510" cy="28"  r=".2"  class="star tw2"/><circle cx="170" cy="372" r=".2" class="star tw6"/>
+<circle cx="500" cy="26"  r=".2"  class="star tw1"/><circle cx="180" cy="374" r=".2" class="star tw3"/>
+<circle cx="490" cy="24"  r=".2"  class="star tw4"/><circle cx="190" cy="376" r=".2" class="star tw5"/>
+<circle cx="480" cy="22"  r=".2"  class="star tw2"/><circle cx="200" cy="378" r=".2" class="star tw6"/>
+<circle cx="470" cy="21"  r=".2"  class="star tw1"/><circle cx="210" cy="379" r=".2" class="star tw3"/>
+<circle cx="460" cy="20"  r=".2"  class="star tw4"/><circle cx="220" cy="380" r=".2" class="star tw5"/>
+<circle cx="450" cy="19"  r=".2"  class="star tw2"/><circle cx="230" cy="381" r=".2" class="star tw6"/>
+<circle cx="440" cy="18"  r=".2"  class="star tw1"/><circle cx="240" cy="382" r=".2" class="star tw3"/>
+<circle cx="430" cy="17"  r=".2"  class="star tw4"/><circle cx="250" cy="383" r=".2" class="star tw5"/>
+<circle cx="420" cy="16"  r=".2"  class="star tw2"/><circle cx="260" cy="384" r=".2" class="star tw6"/>
+<circle cx="410" cy="15"  r=".2"  class="star tw1"/><circle cx="270" cy="385" r=".2" class="star tw3"/>
+<circle cx="400" cy="14"  r=".2"  class="star tw4"/><circle cx="280" cy="386" r=".2" class="star tw5"/>
+<circle cx="390" cy="13"  r=".2"  class="star tw2"/><circle cx="290" cy="387" r=".2" class="star tw6"/>
+<circle cx="380" cy="12"  r=".2"  class="star tw1"/><circle cx="300" cy="388" r=".2" class="star tw3"/>
+<circle cx="370" cy="11"  r=".2"  class="star tw4"/><circle cx="310" cy="389" r=".2" class="star tw5"/>
+<circle cx="360" cy="10"  r=".2"  class="star tw2"/><circle cx="320" cy="390" r=".2" class="star tw6"/>
+<circle cx="350" cy="9"   r=".2"  class="star tw1"/><circle cx="330" cy="391" r=".2" class="star tw3"/>
+
+<circle cx="340" cy="200" r="88"  class="r1"/>
+<circle cx="340" cy="200" r="150" class="r2"/>
+<circle cx="340" cy="200" r="172" class="r3"/>
+<circle cx="428" cy="200" r="2.5" class="cdot" opacity=".5"/>
+<circle cx="252" cy="200" r="2.5" class="cdot" opacity=".5"/>
+<circle cx="340" cy="112" r="2.5" class="cdot" opacity=".5"/>
+<circle cx="340" cy="200" r="60" fill="url(#gc)"/>
+<text x="340" y="193" class="cname">ISHIKA.DEV</text>
+<text x="340" y="213" class="csub">CS · UNDERGRADUATE</text>
+<g class="i1"><rect x="-24" y="-13" width="48" height="26" rx="6" class="tbg"/><rect x="-24" y="-13" width="48" height="26" rx="6" class="tbd" stroke="#00d4ff"/><text x="0" y="0" class="tt" fill="#00d4ff">C++</text></g>
+<g class="i2"><rect x="-30" y="-13" width="60" height="26" rx="6" class="tbg"/><rect x="-30" y="-13" width="60" height="26" rx="6" class="tbd" stroke="#f778ba"/><text x="0" y="0" class="tt" fill="#f778ba">Python</text></g>
+<g class="i3"><rect x="-24" y="-13" width="48" height="26" rx="6" class="tbg"/><rect x="-24" y="-13" width="48" height="26" rx="6" class="tbd" stroke="#56d364"/><text x="0" y="0" class="tt" fill="#56d364">Java</text></g>
+<g class="m1"><rect x="-40" y="-13" width="80" height="26" rx="6" class="tbg"/><rect x="-40" y="-13" width="80" height="26" rx="6" class="tbd" stroke="#e3b341"/><text x="0" y="0" class="tt" fill="#e3b341">JavaScript</text></g>
+<g class="m2"><rect x="-27" y="-13" width="54" height="26" rx="6" class="tbg"/><rect x="-27" y="-13" width="54" height="26" rx="6" class="tbd" stroke="#00d4ff"/><text x="0" y="0" class="tt" fill="#00d4ff">React</text></g>
+<g class="m3"><rect x="-32" y="-13" width="64" height="26" rx="6" class="tbg"/><rect x="-32" y="-13" width="64" height="26" rx="6" class="tbd" stroke="#56d364"/><text x="0" y="0" class="tt" fill="#56d364">Node.js</text></g>
+<g class="m4"><rect x="-32" y="-13" width="64" height="26" rx="6" class="tbg"/><rect x="-32" y="-13" width="64" height="26" rx="6" class="tbd" stroke="#f778ba"/><text x="0" y="0" class="tt" fill="#f778ba">FastAPI</text></g>
+<g class="m5"><rect x="-32" y="-13" width="64" height="26" rx="6" class="tbg"/><rect x="-32" y="-13" width="64" height="26" rx="6" class="tbd" stroke="#e3b341"/><text x="0" y="0" class="tt" fill="#e3b341">Spring</text></g>
+<g class="o1"><rect x="-37" y="-13" width="74" height="26" rx="6" class="tbg"/><rect x="-37" y="-13" width="74" height="26" rx="6" class="tbd" stroke="#56d364"/><text x="0" y="0" class="tt" fill="#56d364">MongoDB</text></g>
+<g class="o2"><rect x="-44" y="-13" width="88" height="26" rx="6" class="tbg"/><rect x="-44" y="-13" width="88" height="26" rx="6" class="tbd" stroke="#79c0ff"/><text x="0" y="0" class="tt" fill="#79c0ff">PostgreSQL</text></g>
+<g class="o3"><rect x="-20" y="-13" width="40" height="26" rx="6" class="tbg"/><rect x="-20" y="-13" width="40" height="26" rx="6" class="tbd" stroke="#f778ba"/><text x="0" y="0" class="tt" fill="#f778ba">Git</text></g>
+<g class="o4"><rect x="-26" y="-13" width="52" height="26" rx="6" class="tbg"/><rect x="-26" y="-13" width="52" height="26" rx="6" class="tbd" stroke="#00d4ff"/><text x="0" y="0" class="tt" fill="#00d4ff">Linux</text></g>
+<g class="o5"><rect x="-22" y="-13" width="44" height="26" rx="6" class="tbg"/><rect x="-22" y="-13" width="44" height="26" rx="6" class="tbd" stroke="#ffa05a"/><text x="0" y="0" class="tt" fill="#ffa05a">DSA</text></g>
+<g class="o6"><rect x="-28" y="-13" width="56" height="26" rx="6" class="tbg"/><rect x="-28" y="-13" width="56" height="26" rx="6" class="tbd" stroke="#79c0ff"/><text x="0" y="0" class="tt" fill="#79c0ff">Docker</text></g>
+<g class="o7"><rect x="-26" y="-13" width="52" height="26" rx="6" class="tbg"/><rect x="-26" y="-13" width="52" height="26" rx="6" class="tbd" stroke="#c792ea"/><text x="0" y="0" class="tt" fill="#c792ea">AI / ML</text></g>
+<g class="o8"><rect x="-28" y="-13" width="56" height="26" rx="6" class="tbg"/><rect x="-28" y="-13" width="56" height="26" rx="6" class="tbd" stroke="#e3b341"/><text x="0" y="0" class="tt" fill="#e3b341">MySQL</text></g>
+</svg>
