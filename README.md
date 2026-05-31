@@ -228,13 +228,7 @@
 
 <div align="center">
 
-> ✦ *All my skills orbiting in space — move your mouse to interact.*
-
-<br/>
-
-<a href="https://ishikarawatt.github.io/portfolio-widgets/starfield.html" target="_blank">
-  <img src="https://img.shields.io/badge/🌌%20%20Launch%20Tech%20Universe-060a12?style=for-the-badge&labelColor=060a12&color=0077b6"/>
-</a>
+<img src="https://raw.githubusercontent.com/ishikarawatt/ishikarawatt/main/starfield.svg" width="100%" alt="Tech Universe"/>
 
 </div>
 
